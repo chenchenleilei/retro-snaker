@@ -25,7 +25,7 @@ function init() {
   };
   // 动画
   dx = 5;
-  time = 10;
+  time = 50;
   position = "right";
   // 线
   lineObj = {
